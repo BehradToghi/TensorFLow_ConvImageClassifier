@@ -1,5 +1,5 @@
 # ConvImageClassifier
-## This is a simple code for educational purposes.
+## This is a simple neural network implementation for educational purposes using Keras and TensorFlow.
 
 Basic Convolutional Image Classifier on Fashion MNIST dataset using TensorFlow
 Please clone the repository and run the following command:
